@@ -1,0 +1,79 @@
+{
+  "graduation_rate_150pct": {
+    "category": "Academics",
+    "description": "Graduation rate within 150% of normal completion time",
+    "direction": "higher",
+    "available_colleges": 2284,
+    "coverage_percent": 81.69
+  },
+  "bachelors_4yr_completion_rate": {
+    "category": "Academics",
+    "description": "Bachelor's degree completion within four years",
+    "direction": "higher",
+    "available_colleges": 1995,
+    "coverage_percent": 71.35
+  },
+  "retention_rate": {
+    "category": "Student Experience",
+    "description": "First-year student retention rate",
+    "direction": "higher",
+    "available_colleges": 2073,
+    "coverage_percent": 74.14
+  },
+  "student_faculty_ratio": {
+    "category": "Academics",
+    "description": "Students per faculty member; smaller may mean more access to faculty",
+    "direction": "lower",
+    "available_colleges": 2489,
+    "coverage_percent": 89.02
+  },
+  "average_net_price": {
+    "category": "Affordability",
+    "description": "Average institutional net price after grant aid",
+    "direction": "lower",
+    "available_colleges": 2287,
+    "coverage_percent": 81.8
+  },
+  "MD_EARN_WNE_P10": {
+    "category": "Career Outcomes",
+    "description": "Median earnings 10 years after entering college",
+    "direction": "higher",
+    "available_colleges": 2282,
+    "coverage_percent": 81.62
+  },
+  "MD_EARN_WNE_P6": {
+    "category": "Career Outcomes",
+    "description": "Median earnings 6 years after entering college",
+    "direction": "higher",
+    "available_colleges": 2275,
+    "coverage_percent": 81.37
+  },
+  "DEBT_MDN": {
+    "category": "Financial Outcomes",
+    "description": "Median federal student loan debt among borrowers",
+    "direction": "lower",
+    "available_colleges": 2213,
+    "coverage_percent": 79.15
+  },
+  "GRAD_DEBT_MDN": {
+    "category": "Financial Outcomes",
+    "description": "Median debt among graduating federal-loan borrowers",
+    "direction": "lower",
+    "available_colleges": 2152,
+    "coverage_percent": 76.97
+  },
+  "undergraduate_enrollment": {
+    "category": "Campus Environment",
+    "description": "Undergraduate student population",
+    "direction": "preference",
+    "available_colleges": 2755,
+    "coverage_percent": 98.53
+  },
+  "acceptance_rate": {
+    "category": "Admissions",
+    "description": "Percentage of applicants admitted",
+    "direction": "preference",
+    "available_colleges": 1729,
+    "coverage_percent": 61.84
+  }
+}
